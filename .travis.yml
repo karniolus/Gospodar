@@ -4,3 +4,4 @@ deploy:
   provider: heroku
   api_key:
     secure: "aef5882d-1e78-4f80-895d-20e4d6af56ea"
+  app: my-app-123
