@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Gospodar:war exploded">
+  <artifact type="exploded-war" name="gospodar:war exploded">
     <output-path>$PROJECT_DIR$/target/gospodar</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="Gospodar" />
+          <element id="module-output" name="gospodar" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.glassfish.jersey.core:jersey-client:2.26" />
@@ -19,7 +19,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/gospodar/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="Gospodar/web/Web" />
+      <element id="javaee-facet-resources" facet="gospodar/web/Web" />
     </root>
   </artifact>
 </component>

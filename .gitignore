@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/inspectionProfiles/
+.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_0.xml
+.idea/libraries/Maven__javax_javaee_api_8_0.xml
+.idea/workspace.xml
+src/main/java/si/karniolus/gospodar/business/hlev/control/
+src/main/java/si/karniolus/gospodar/presentation/
+target/
